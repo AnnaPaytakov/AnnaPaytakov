@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Python Django Developer<br>🌱 Learning and experimenting with web development<br>💻 Passionate about creating efficient and scalable applications<br>📚 Always improving and exploring new technologies
+🚀 Python Django Developer<br>🌱 Learning and experimenting with web development<br><br>📚 Always improving and exploring new technologies
 
 
 # 💻 Tech Stack:
