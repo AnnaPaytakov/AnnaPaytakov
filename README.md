@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Python Django Developer<br>🌱Learning and experimenting with web development<br>📚 Improving and exploring new technologies
+🚀Python Django Developer<br>🌱Learning and experimenting with web development<br>📚 Improving and exploring new technologies
 
 
 # 💻 Tech Stack:
