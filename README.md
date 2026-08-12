@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Backend Developer | Python & Django(DRF)
+### Backend Developer | Python • Django • REST APIs • DevOps
 
 Backend Developer with 2+ years of experience building web applications, REST APIs, and backend systems with Python and Django.
 
