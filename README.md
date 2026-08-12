@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀Python Developer<br>🌱Learning and experimenting with web development<br>📚Improving and exploring new technologies
+### Backend Developer | Python & Django
+
+Backend Developer with 2+ years of experience building web applications, REST APIs, and backend systems with Python and Django.
+
+My main focus is backend development, API design, database-driven applications, and deployment. I also have hands-on experience with Docker, Nginx, Redis, Celery, WebSockets, Linux, and CI/CD.
+
+I enjoy working on real-world projects where software, automation, and infrastructure come together.
 
 
 # 💻 Tech Stack:
